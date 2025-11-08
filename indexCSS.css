@@ -1,0 +1,21 @@
+body{background-color: lightblue;}
+		/*This is second page of the website.*/
+		img.image{margin-left: 34%;
+			  width: 30%;
+			  height: 20%;}
+		table {font-family: Arial;
+		       border-collapse: collapse;
+               		width: 80%;
+	           	margin-left: 10%;
+			margin-top: 3%;}
+		th, td {border: 2px solid #ddd;
+  			    padding: 8px;
+			    text-align: left;}
+		th {padding-top: 12px;
+  		    padding-bottom: 12px;
+  		    background-color: lightpink;
+  		    color: white;}
+		tr.firstrow{background-color: coral;}
+		tr.secondrow{background-color: red;}
+		tr.thirdrow{background-color: green;}
+		p.center{text-align: center;}
